@@ -2,26 +2,26 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
-
 ### <div align="center">I'm Neha, graduate student at Robert H. Smith School of Business, University of Maryland 🎓</div>  
   
 
+<br>  
 
+## 💁‍♀️ Rapid Fire About Me
 
-### Rapid Fire  
 - 👀 I’m interested in Fantasy and Dystopian fiction  
   
 
 - 🌱 I’m currently learning the technology and techniques required to organize and manage information  
   
 
-- ❓Ask me anything about SQL 📝 and Disney Movies 🎥  
+- ❓ Ask me anything about SQL 📝 and Disney Movies 🎥  
   
 
 <br/>  
 
 
-## My Skill Set  
+## 🏆 My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -44,7 +44,7 @@
 <br/>  
 
 
-## Connect with me  
+## ☎️ Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/Neha-Ambekar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -55,26 +55,31 @@
 <a href="https://www.kaggle.com/https://www.kaggle.com/nehaambekar" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=asneha1996@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.goodreads.com/nehaambekar" target="_blank">  
+<img src=https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </div>  
   
 
 <br/>  
 
 
-## Github Stats  
+## 🚀 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Neha-Ambekar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
+
+## 🎵 Currently Listening
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asneha96&cover_image=true&theme=natemoo-re&bar_color=a64eb1&bar_color_cover=true" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Neha-Ambekar&&style=flat-square" align="center" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Neha-Ambekar&&style=flat-square" align="left" />
 </div>  
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
