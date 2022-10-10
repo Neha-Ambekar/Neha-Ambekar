@@ -61,6 +61,10 @@
 <a href="https://www.goodreads.com/nehaambekar" target="_blank">  
 <img src=https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </div>  
+</a>  
+<a href="https://public.tableau.com/app/profile/neha.ambekar.shriharsha" target="_blank">  
+<img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</div>  
   
 
 <br/>  
