@@ -58,12 +58,11 @@
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=asneha1996@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.goodreads.com/nehaambekar" target="_blank">  
-<img src=https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</div>  
-</a>  
 <a href="https://public.tableau.com/app/profile/neha.ambekar.shriharsha" target="_blank">  
 <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.goodreads.com/nehaambekar" target="_blank">  
+<img src=https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white alt=kaggle style="margin-bottom: 5px;" /> 
 </div>  
   
 
